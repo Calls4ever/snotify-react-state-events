@@ -22,7 +22,7 @@
       "artist": "2Pac ft Talent",
       "url": "https://www.youtube.com/embed/eXvBjCO19QY",
       "genre": "Hip Hop",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "artist": "Lizzo",
       "url": "https://www.youtube.com/embed/SmbmeOgWsqE",
       "genre": "Hip Hop",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "artist": "Kanye West",
       "url": "https://www.youtube.com/embed/6CHs4x2uqcQ",
       "genre": "Hip Hop",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 7,
@@ -62,7 +62,7 @@
       "artist": "2Pac",
       "url": "https://www.youtube.com/embed/Mb1ZvUDvLDY",
       "genre": "Hip Hop",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "artist": "John Legend",
       "url": "https://www.youtube.com/embed/PIh07c_P4hc",
       "genre": "Hip Hop",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 10,
@@ -102,7 +102,7 @@
       "artist": "Celia Cruz",
       "url": "https://www.youtube.com/embed/0nBFWzpWXuM",
       "genre": "Salsa",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 14,
@@ -118,7 +118,7 @@
       "artist": "Prince feat. Eryn Allen Kane",
       "url": "https://www.youtube.com/embed/cieZB0Ab7xk",
       "genre": "Hip Hop",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 16,
@@ -134,7 +134,7 @@
       "artist": "Common, John Legend",
       "url": "https://www.youtube.com/embed/HUZOKvYcx_o",
       "genre": "Hip Hop",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 18,
@@ -142,7 +142,7 @@
       "artist": "Kendrick Lamar",
       "url": "https://www.youtube.com/embed/Z-48u_uWMHY",
       "genre": "Hip Hop",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": 19,

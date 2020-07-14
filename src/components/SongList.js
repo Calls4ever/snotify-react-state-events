@@ -1,7 +1,12 @@
 import React from 'react';
 import Filter from './Filter';
+import SongItem from './SongItem'
+
+
 
 const SongList = props => {
+    
+    
     return (
         <div className="half songlist">
             <h2>Song List</h2>
@@ -18,7 +23,9 @@ const SongList = props => {
                         </tr>
                     </thead>
                     <tbody>
-                        {/** TODO: Render a SongItem component per each song here*/}
+                        {props.songs.map((song, index)=>
+                            <SongItem key={index} title={song.title} artist={song.artist} favorite={song.favorite} id={song.id} favoriteSong={props.favoriteSong} />
+                        )}
                     </tbody>
             </table>
         </div>
